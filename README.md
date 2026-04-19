@@ -1,4 +1,4 @@
-# Projeto-Texas-Center
+# Projeto Texas Center
 
 Este projeto está sendo desenvolvido por mim em meus tempos lives, para praticar minhas habilidades em Python e JSON.
 Sou um grande fã da moda country e, por isso, acabei conhecendo a loja TEXAS CENTER. Me encantei pela loja e decidi criar um projeto inspirado nela.
